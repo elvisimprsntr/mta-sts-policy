@@ -1,7 +1,6 @@
 version: STSv1
 mode: testing
 max_age: 86400
-mx: mail.alecdawson.com
 mx: mx.noip.com
 mx: mail1.no-ip.com
 mx: mail2.no-ip.com
